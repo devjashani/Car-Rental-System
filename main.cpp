@@ -113,6 +113,7 @@ public:
             rentalfee = days * 75;
         }
     }
+    
     void showrent()
     {
         cout << "\n\t\t                                    Car Rental  -  Customer Invoice                    " << endl;
